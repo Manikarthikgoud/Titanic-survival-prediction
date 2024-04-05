@@ -28,6 +28,7 @@ To train the machine learning model used in the app:
 
 #### Running the Streamlit webApp
 
+```bash
 streamlit run streamlit.py  # This will open the app in your default web browser.
 ```bash
 
