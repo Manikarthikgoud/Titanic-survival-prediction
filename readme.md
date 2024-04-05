@@ -30,7 +30,7 @@ To train the machine learning model used in the app:
 
 ```bash
 streamlit run streamlit.py  # This will open the app in your default web browser.
-```bash
+
 
 Usage
 1.Select the passenger class, sex, age, number of siblings/spouses aboard, number of parents/children aboard, and port of embarkation using the dropdowns and input fields.
